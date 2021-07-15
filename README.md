@@ -5,6 +5,24 @@
 - 📫 How to reach me ...
 
 <!---
-alihaider8480/alihaider8480 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hi I'm Java Developer. And Currently Working On Teresol PVT As a Software Design Engineer.
+Skills
+
+Java Core,
+OOP Concept
+Spring FrameWork
+Quarkus
+Hibernate
+Reactive Programming
+Mutiny RedHat
+ORM
+MAVEN Tool
+Html
+Css 5
+JavaScript
+Vue.Js
+JspAndServilet
+SQL
+MYSQL
+
 --->
